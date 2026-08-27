@@ -1,0 +1,1 @@
+# QuantumultX-qx-flag-rewrite
